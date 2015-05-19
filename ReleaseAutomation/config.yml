@@ -1,0 +1,6 @@
+build_now:              'YES'  
+download_base_url:      'http://www.karafun.com/osx_folder/'
+appcast_basefolder:     './'  
+appcast_xml_name:       'appcast.xml'  
+keychain_privkey_name:  'KaraFun Sparkle Private Key'
+css_file_name:          'rnotes.css' 
