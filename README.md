@@ -1,3 +1,5 @@
+/!\ [DEPRECATED] /!\
+
 # OSXReleaseAutomation
 
 This project is just a sample of how to do a full xcode automation using Sparkle.
